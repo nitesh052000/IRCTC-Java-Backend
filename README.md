@@ -27,3 +27,7 @@ A minimal backend application for an IRCTC-like train booking system, built usin
 
 ## 📁 Project Structure
 
+-**entities - user, ticket, train
+-**services - user booking service, train booking service
+-**localDB - to store user, train data
+
